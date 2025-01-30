@@ -2,7 +2,7 @@
 title: "Comparação entre o método laboratorial e o penetrômetro de Stolf na análise da densidade do solo: um estudo utilizando abordagens geoestatísticas"
 collection: publications
 category: manuscripts
-permalink: [](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=j500KPwAAAAJ&citation_for_view=j500KPwAAAAJ:u5HHmVD_uO8C)
+permalink: 
 excerpt: ''
 date: 2024-03-15
 venue: 'Sigmae'
