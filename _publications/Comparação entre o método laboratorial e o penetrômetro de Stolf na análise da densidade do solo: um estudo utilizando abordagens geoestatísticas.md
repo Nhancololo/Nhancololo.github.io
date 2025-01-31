@@ -2,12 +2,12 @@
 title: "Comparação entre o método laboratorial e o penetrômetro de Stolf na análise da densidade do solo: um estudo utilizando abordagens geoestatísticas"
 collection: publications
 category: Article
-permalink: "
-excerpt: ''
+permalink: 
+excerpt: 
 date: 2024-03-15
 venue: 'Sigmae' 
-slidesurl: 'http://Nhancololo.github.io/files/slides1.pdf'
-paperurl: 'http://Nhancololo.github.io/files/paper1.pdf'
+slidesurl: 
+paperurl: 
 citation: 'Nhancololo, Alex Monito, et al. "Comparação entre o método laboratorial e o penetrômetro de Stolf na análise da densidade do solo: um estudo utilizando abordagens geoestatísticas." Sigmae 13.1 (2024): 63-78.'
 ---
 
