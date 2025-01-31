@@ -21,12 +21,12 @@ repository               : "Nhancololo/Nhancololo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "alex22.png"
+  name             : "Nhancololo, A. M."
+  pronouns         : "He"  
+  bio              : "I love statistics"
+  location         : "Brazil"
+  employer         : "University of São Paulo"
   uri              : # URL
   email            : "amnhancololo@gmail.com" 
 
